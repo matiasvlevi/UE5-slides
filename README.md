@@ -11,7 +11,7 @@
 
 [Ajoute de la Flore](./foliage.pdf)
 
-[Exporter un modèle de blender](./Exporter_un_modele.pdf)
+[Exporter un modèle de blender](./Exporter_des_modeles.pdf)
 
 
 ### Fichiers
@@ -25,3 +25,8 @@
 
 [rocks.fbx](./rocks.fbx)
 [rocks.blend](./rocks.blend)
+
+### Gazon
+
+[grass_2x1.fbx](./grass_2x1.fbx)
+[grass_alpha.png](./grass_alpha.png)
