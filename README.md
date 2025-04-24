@@ -34,3 +34,7 @@
 [grass_2x1.fbx](./grass_2x1.fbx)
 
 [grass_alpha.png](./grass_alpha.png)
+
+### Personnage
+
+[Character.zip](./Character.zip)
